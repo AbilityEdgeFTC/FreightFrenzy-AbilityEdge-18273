@@ -26,7 +26,7 @@ import org.firstinspires.ftc.teamcode.robot.subsystems.intake;
 /**
  FOR ANY QUESTIONS PLEASE ASK ME, ELIOR YOUSEFI FROM ABILITY EDGE #18273. THIS CODE IS VERY COMPLEX AND YET, IM A LAZY
  TO ADD COMMENTS. SO FOR NOW, EVERY PART THAT YOU DONT GET, PLEASE!!!!! ASK ME.
- MY PHONE NUMBER IS: 050-474-7845
+ MY EMAIL IS: elioryous@gmail.com
  */
 @Config
 @TeleOp(name = "TeleOp BLUE Alliance", group = "blue")
